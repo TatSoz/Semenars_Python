@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Olga",
+    "Surname": "Serova",
+    "Phone number": "8-921-282-45-21",
+    "Comment": "home"
+  },
+  {
+    "Name": "Dima",
+    "Surname": "Dymov",
+    "Phone number": "8-911-876-09-34",
+    "Comment": "work"
+  },
+  {
+    "Name": "Fekla",
+    "Surname": "Semenova",
+    "Phone number": "8-901-234-09-56",
+    "Comment": "private"
+  },
+  {
+    "Name": "Alisa",
+    "Surname": "Omarova",
+    "Phone number": "8-925-950-96-39",
+    "Comment": "home"
+  },
+  {
+    "Name": "Сергей",
+    "Surname": "Васильев",
+    "Phone number": "666",
+    "Comment": "доб"
+  },
+  {
+    "Name": "Lada",
+    "Surname": "Rezova",
+    "Phone number": "8-921-456-12-34",
+    "Comment": "work"
+  }
+]
