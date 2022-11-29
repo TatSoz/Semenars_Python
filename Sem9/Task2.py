@@ -5,8 +5,8 @@ import random
 
 '''from telebot import types # для указание типов  '''
 
-token = '5803370605:AAHCc4pBsUMroUtfh4fG_HyLHSY1lfJOdd8'
-bot = telebot.TeleBot('5803370605:AAHCc4pBsUMroUtfh4fG_HyLHSY1lfJOdd8')
+token = ''
+bot = telebot.TeleBot('')
 
 
 @bot.message_handler(commands=["start"])
